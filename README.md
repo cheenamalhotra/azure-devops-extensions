@@ -1,2 +1,3 @@
-# azure-devops-extensions
-Extensions created for Azure DevOps
+# Azure DevOps Extensions
+
+Extensions created for Azure DevOps Dashboards
